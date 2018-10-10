@@ -1,0 +1,21 @@
+{
+  "name": "react-template-slots",
+  "version": "0.1.0",
+  "description": "Template slots for react",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootsher/react-template-slots.git"
+  },
+  "keywords": [
+    "template",
+    "slots",
+    "react"
+  ],
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rootsher/react-template-slots/issues"
+  },
+  "homepage": "https://github.com/rootsher/react-template-slots#readme"
+}
